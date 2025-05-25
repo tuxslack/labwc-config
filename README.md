@@ -8,7 +8,7 @@ Gerenciador de arquivo: Thunar
 
 Captura de tela para Wayland: grim
 
-Gravação de tela no Wayland: SimpleScreenRecorder não funciona com Wayland usar o wf-recorder
+Gravação de tela no Wayland: SimpleScreenRecorder, FFmpeg não funciona com Wayland usar o wf-recorder
 
 Gerenciador de papéis de parede: Azote, swaybg
 
