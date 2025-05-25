@@ -5,6 +5,7 @@ Painel: Waybar
 Mostra a área de trabalho: script no Waybar
 Menu do aplicativo: Wofi
 Gerenciador de arquivo: Thunar
+Servidor de som: PipeWire
 
 Captura de tela para Wayland: grim
 
@@ -14,6 +15,8 @@ Gerenciador de papéis de parede: Azote, swaybg
 
 Player de vídeo: Parole não funciona com Wayland usar VLC
 Player de música: qmmp
+
+Exibição de indicadores para Num Lock e Caps Lock: xset  não funciona com Wayland
 
 Teclas de atalhos
 
